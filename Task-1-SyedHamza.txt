@@ -1,0 +1,66 @@
+# 🤖 DecodeBot AI
+
+DecodeBot AI is a rule-based chatbot developed in Python as part of the DecodeLabs project.  
+The chatbot interacts with users through text commands and provides different responses based on user input.
+
+This project demonstrates the use of:
+- Conditional Statements
+- Loops
+- User Input Handling
+- Python Modules
+- Random Responses
+- Basic AI Chatbot Logic
+
+---
+
+## 🚀 Features
+
+- Greeting users
+- Remembering user names
+- Responding to AI-related questions
+- Showing current date and time
+- Telling random jokes
+- Giving motivational quotes
+- Simple calculator functionality
+- Number guessing game
+- Help command menu
+- Friendly exit system
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Random Module
+- Datetime Module
+
+---
+
+## 📌 Commands Supported
+
+| Command | Function |
+|---|---|
+| hello / hi | Greeting |
+| my name is | Save user name |
+| what is my name | Recall saved name |
+| your name | Bot introduction |
+| how are you | Random chatbot response |
+| time | Displays current time |
+| date | Displays current date |
+| ai | Defines AI |
+| joke | Tells jokes |
+| motivate | Gives motivation |
+| calculate | Performs calculations |
+| game | Starts guessing game |
+| help | Shows command list |
+| exit | Exits chatbot |
+
+---
+
+## 🎯 Project Purpose
+
+The purpose of this project is to build a beginner-friendly AI chatbot using Python and understand how rule-based chatbots work through user interaction and predefined responses.
+
+---
+
+BY **Syed Hamza**

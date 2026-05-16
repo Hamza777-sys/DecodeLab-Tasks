@@ -1,0 +1,70 @@
+# 🌸 AI Data Classification Project
+
+This project is a machine learning classification system developed in Python using the Iris dataset.  
+The program uses a Decision Tree Classifier to classify flower species based on their features such as sepal length, sepal width, petal length, and petal width.
+
+The project demonstrates the implementation of:
+- Machine Learning Classification
+- Data Splitting
+- Model Training
+- Prediction Systems
+- Accuracy Evaluation
+- Confusion Matrix Analysis
+
+---
+
+## 🚀 Features
+
+- Iris dataset classification
+- Decision Tree AI model
+- Training and testing dataset split
+- Model accuracy calculation
+- Classification report generation
+- Confusion matrix display
+- Example prediction system
+- Clean and professional output formatting
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- Scikit-learn
+
+---
+
+## 📌 Project Workflow
+
+1. Import required libraries  
+2. Load the Iris dataset  
+3. Split dataset into training and testing data  
+4. Create Decision Tree Classifier model  
+5. Train the model  
+6. Make predictions  
+7. Calculate accuracy  
+8. Display classification report  
+9. Show confusion matrix  
+10. Predict flower category from sample data  
+
+---
+
+## 🎯 Project Purpose
+
+The purpose of this project is to understand how machine learning classification works using Python and Scikit-learn.  
+It helps in learning how AI models are trained, tested, and evaluated using real datasets.
+
+---
+
+## 📊 Model Information
+
+- Model Used: Decision Tree Classifier
+- Dataset: Iris Dataset
+- Accuracy Evaluation Included
+- Prediction System Included
+
+---
+
+## 👨‍💻 Author
+
+**Syed Hamza**

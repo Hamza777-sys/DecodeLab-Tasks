@@ -1,0 +1,76 @@
+# 🎬 Advanced AI Movie Recommendation System
+
+This project is an AI-based movie recommendation system developed in Python as part of the DecodeLabs Artificial Intelligence Project.  
+The system recommends movies to users based on their interests and preferred categories.
+
+The recommendation engine analyzes user input and matches it with movie genres and tags to provide personalized movie suggestions.
+
+---
+
+## 🚀 Features
+
+- AI-based movie recommendation system
+- User interest matching
+- Multiple movie category support
+- Movie scoring system
+- IMDb ratings included
+- Director information
+- Main cast information
+- Movie descriptions
+- Smart recommendation sorting
+- Professional console output formatting
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Dictionary Data Structures
+- Lists
+- Loops
+- Conditional Statements
+- Sorting Algorithms
+
+---
+
+## 📌 Project Workflow
+
+1. Store movie database with details  
+2. Collect all available movie categories  
+3. Take user interests as input  
+4. Match interests with movie tags  
+5. Calculate recommendation score  
+6. Sort movies by score and rating  
+7. Display personalized recommendations  
+
+---
+
+## 🎯 Project Purpose
+
+The purpose of this project is to understand how recommendation systems work using artificial intelligence concepts and Python programming.
+
+This project helps in learning:
+- Recommendation Logic
+- Data Handling
+- User Preference Matching
+- AI-Based Filtering Systems
+- Python Data Structures
+
+---
+
+## 📊 System Information
+
+- Recommendation Type: Rule-Based AI System
+- Input Method: User Interests
+- Output: Personalized Movie Recommendations
+- Additional Information Included:
+  - IMDb Ratings
+  - Director Names
+  - Main Cast
+  - Movie Descriptions
+
+---
+
+## 👨‍💻 Author
+
+**Syed Hamza**
