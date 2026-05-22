@@ -1,0 +1,106 @@
+# AI OCR Text Recognition System
+
+## Project Overview
+
+This project is an AI-based OCR (Optical Character Recognition) system developed using Python, OpenCV, and PyTesseract. The system is capable of detecting and extracting text from images using image preprocessing and computer vision techniques.
+
+The project processes an input image, improves image quality using preprocessing methods, and then applies OCR to convert image text into machine-readable text.
+
+---
+
+# Features
+
+- OCR Text Recognition
+- Image Preprocessing
+- Grayscale Conversion
+- Noise Removal
+- Adaptive Thresholding
+- Image Sharpening
+- Bounding Box Detection
+- Confidence Score Filtering
+- Automatic Output Saving
+- Text File Generation
+- Processed Image Saving
+
+---
+
+# Technologies Used
+
+- Python
+- OpenCV
+- PyTesseract
+- NumPy
+
+---
+
+# How the Project Works
+
+The system follows the IPO (Input, Process, Output) model.
+
+## Input
+- Image file (`sample.jpg`)
+
+## Processing
+The image goes through several preprocessing steps:
+
+1. Image Resizing
+2. Grayscale Conversion
+3. Noise Removal using Gaussian Blur
+4. Image Sharpening
+5. Adaptive Thresholding
+6. OCR Detection using Tesseract
+
+## Output
+The system generates:
+- Extracted text
+- Bounding boxes around detected text
+- Confidence scores
+- Saved output images
+- Saved text files
+
+---
+
+# OCR Workflow
+
+Input Image  
+↓  
+Image Preprocessing  
+↓  
+OCR Detection  
+↓  
+Text Extraction  
+↓  
+Confidence Filtering  
+↓  
+Output Generation  
+
+---
+
+# Image Processing Techniques Used
+
+## Grayscale Conversion
+Converts the image into grayscale for easier text processing.
+
+## Gaussian Blur
+Removes noise and improves OCR accuracy.
+
+## Adaptive Thresholding
+Converts the image into black and white for better text recognition.
+
+## Image Sharpening
+Enhances text visibility.
+
+---
+
+# Confidence Filtering
+
+The project filters OCR results using confidence scores.
+
+Only text with confidence greater than 60% is accepted.
+
+Confidence Logic:
+
+- Confidence > 60% → Valid Text
+- Confidence < 60% → Ignored
+
+---
